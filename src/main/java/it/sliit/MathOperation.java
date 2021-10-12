@@ -15,4 +15,6 @@ public class MathOperation {
         return operand1 - operand2;
     }
 
+    public static int multiply(int a, int b){ return a*b; }
+
 }
